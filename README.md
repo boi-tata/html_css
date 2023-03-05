@@ -5,7 +5,7 @@ Este repostório é onde estou guardando meu material de estudo de front-end, ba
 A organização das pastas reflete os capítulos do livro, seguindo os nomes sugeridos nos exemplos. A estrutura do livro é a seguinte:
 
 | Capítulo | Tema |
-| - | - |
+| --- | --- |
 | Chapter 1 | Structure |
 | Chapter 2 | Text |
 | Chapter 3 | Lists |
